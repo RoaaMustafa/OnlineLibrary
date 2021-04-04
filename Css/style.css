@@ -6,6 +6,7 @@ header{
     background-image: url(images/background.jpg);
 background-color: bisque;
 text-align: center;
+color: purple;
 }
 
 #first nav ul li { 
@@ -27,15 +28,22 @@ text-decoration: none;
   font-display:swap;
 }
 div h3{
-  text-align: center;  
+   
+  text-align: center; 
+  font-size: large; 
+  color: purple;
+  background-color: gray;
+  font-display:swap;
+  margin-right: 10px 400px 20px 800px;
 }
 .images{
     text-align: center;
 }
 div p{
     color: aliceblue;
-    background-color: cornflowerblue;
+    background-color: rgb(145, 179, 241);
     font-style: italic;
+    margin: 20px 200px 20px 200px;
 }
 footer{
  background-color: chartreuse;
